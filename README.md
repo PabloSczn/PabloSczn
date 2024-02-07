@@ -14,9 +14,14 @@
 
 ### 🔧 Technologies & Tools
 
-- **Programming Languages**: C, C#, Python3, Java, JavaScript, TypeScript
-- **FrontEnd**: HTML5, CSS3, JavaScript, Bootstrap, ReactJS, NodeJS, ExpressJS, MongoDB
-- **Tools & Technologies**: Git & GitHub, Docker, MySQL, Android Studio, Linux Kernel
+- **Backend**: C, C\#, Python3, Java, JavaScript, TypeScript, Knowledge of Design Patterns, NodeJS, ExpressJS, MongoDB, REST, SQL, NoSQL databases, Deployment
+
+- **Frontend**: HTML5, CSS3, Flexbox, JavaScript (ES6, ES2018), AJAX, Bootstrap, ReactJS
+
+- **Android**: Android Studio, Java, Kotlin
+
+- **Additional Technical Skills**: Authentication, Cookies \& Sessions, Web Security, Developer Best Practices, Image Upload and Storage, Git \& GitHub, Docker, MySQL, Linux Kernel, Data Structures, and Object-Oriented Design
+
 
 ### 💼 Work Experience
 
