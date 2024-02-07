@@ -1,6 +1,6 @@
-# Hi there, I'm Pablo Sanchez👋
+## Hi there, I'm Pablo Sanchez👋
 
-## 🎓 Software Engineering Student
+### 🎓 Software Engineering Student
 
 - I'm currently pursuing my BEng (Hons) in Software Engineering at Edinburgh Napier University, UK, with an anticipated graduation in 2024 (on my way to achieving first-class!). 
 - I have a passion for technology and software development, with proficiency in C#, Python, Java and JavaScript. 
