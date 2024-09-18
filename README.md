@@ -91,7 +91,7 @@
 
 ### [TaxCoder](https://taxcoder.cz/)
 ![TaxCoder](https://img.shields.io/badge/Web-App-Blue?style=flat&logo=django&logoColor=white)
-- Created a web application for tax coding solutions, integrating various APIs and ensuring a seamless user experience.
+- As part of the Start-up, Taxcoder, I created a web application for tax coding solutions, integrating various APIs and ensuring a smooth user experience.
 
 ### [Portfolio Website](https://pablosancheznarro.com/)
 ![Portfolio](https://img.shields.io/badge/Website-Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)
@@ -110,13 +110,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-PabloSczn-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloSczn)
 [![Email](https://img.shields.io/badge/Email-sancheznarro.pablo@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancheznarro.pablo@gmail.com)
 
-## 🎨 Hobbies & Interests
+## 🪄 Miscellaneous
+### 🎨 Hobbies & Interests
 
 - **Music**: Playing the guitar and exploring different genres and styles to relax and express creativity.
 - **Hiking**: Enjoying trails to clear my mind, connect with nature, and find inspiration.
 - **Sci-Fi and Fantasy Literature**: Reading to fuel imagination and innovation in technical projects.
 
-## 🏅 Competitions
+### 🏅 Competitions
 
 - **FIRST® LEGO® League Winner** | *Jul 2018*
   - Robotics competition winner on [national level](https://www.upm.es/e-politecnica/imperial-y-parrots-ganadores-de-la-first-lego-league-en-la-upm/) and semi-finalist at international level
