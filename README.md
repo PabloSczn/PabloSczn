@@ -85,10 +85,6 @@
 
 ## 📂 Some Projects
 
-### [Guitar Tutor Website](https://guitar-tutor-website-production.up.railway.app/)
-![Guitar Tutor](https://img.shields.io/badge/Web-App-Blue?style=flat&logo=flask&logoColor=white)
-- Developed a comprehensive website for a guitar tutor, featuring interactive lessons, scheduling, and user authentication.
-
 ### [TaxCoder](https://taxcoder.cz/)
 ![TaxCoder](https://img.shields.io/badge/Web-App-Blue?style=flat&logo=django&logoColor=white)
 - As part of the Start-up, Taxcoder, I created a web application for tax coding solutions, integrating various APIs and ensuring a smooth user experience.
@@ -96,6 +92,10 @@
 ### [Portfolio Website](https://pablosancheznarro.com/)
 ![Portfolio](https://img.shields.io/badge/Website-Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)
 - Showcases my projects, skills, and professional journey with an intuitive and responsive design.
+
+### [Guitar Tutor Website](https://guitar-tutor-website-production.up.railway.app/)
+![Guitar Tutor](https://img.shields.io/badge/Web-App-Blue?style=flat&logo=flask&logoColor=white)
+- Developed a comprehensive website for a guitar tutor, featuring interactive lessons, scheduling, and user authentication.
 
 ## 📜 Certifications
 
