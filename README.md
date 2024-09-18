@@ -105,10 +105,9 @@
 
 ## 🔗 Let's Connect
 
+[![Email](https://img.shields.io/badge/Email-sancheznarro.pablo@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancheznarro.pablo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pablosancheznarro.com-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://pablosancheznarro.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablosanchezn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablosanchezn/)
-[![GitHub](https://img.shields.io/badge/GitHub-PabloSczn-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloSczn)
-[![Email](https://img.shields.io/badge/Email-sancheznarro.pablo@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancheznarro.pablo@gmail.com)
 
 ## 🪄 Miscellaneous
 ### 🎨 Hobbies & Interests
