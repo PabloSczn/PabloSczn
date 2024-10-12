@@ -10,7 +10,7 @@
 
 ## 💼 Professional Experience
 
-### **Software Engineer** @ [TaxCoder](https://taxcoder.cz/)
+### **Software Engineer** @ [TaxCoder](https://taxcoder.cz/prices)
 *May 2024 – Present | Remote*
 
 - Developed and maintained a web application using **Python Django**, **HTML5**, **CSS3**, **Bootstrap**, and **PostgreSQL** on **AWS**, enhancing functionality and user experience.
@@ -85,7 +85,7 @@
 
 ## 📂 Some Projects
 
-### [TaxCoder](https://taxcoder.cz/prices)
+### [TaxCoder]((https://taxcoder.cz/onboard)
 ![TaxCoder](https://img.shields.io/badge/Web-App-Blue?style=flat&logo=django&logoColor=white)
 - As part of the Start-up, Taxcoder, I created a web application for tax coding solutions, integrating various APIs and ensuring a smooth user experience.
 
