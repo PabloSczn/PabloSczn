@@ -85,7 +85,7 @@
 
 ## 📂 Some Projects
 
-### [TaxCoder]((https://taxcoder.cz/onboard)
+### [TaxCoder](https://taxcoder.cz/onboard)
 ![TaxCoder](https://img.shields.io/badge/Web-App-Blue?style=flat&logo=django&logoColor=white)
 - As part of the Start-up, Taxcoder, I created a web application for tax coding solutions, integrating various APIs and ensuring a smooth user experience.
 
