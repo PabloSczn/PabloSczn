@@ -80,7 +80,7 @@
 ## 🌱 Currently Learning & Working On
 
 - **Web Development**: Enhancing skills in **ReactJS**, **NodeJS**, and **MongoDB**.
-- **Machine Learning & AI**: Expanding expertise with a focus on **Azure AI**.
+- **Machine Learning & AI**: Expanding expertise with a focus on **Azure AI** and **XAI**.
 - **DevOps**: Improving CI/CD pipelines and deployment strategies.
 
 ## 📂 Some Projects
@@ -93,7 +93,7 @@
 ![Portfolio](https://img.shields.io/badge/Website-Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)
 - Showcases my projects, skills, and professional journey with an intuitive and responsive design.
 
-### [Guitar Tutor Website](https://guitar-tutor-website-production.up.railway.app/)
+### [Guitar Tutor Website](https://www.mikesmusiclessons.co.uk/)
 ![Guitar Tutor](https://img.shields.io/badge/Web-App-Blue?style=flat&logo=flask&logoColor=white)
 - Developed a comprehensive website for a guitar tutor, featuring interactive lessons, scheduling, and user authentication.
 
