@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 **BEng (Honours) Software Engineer** | 💼 **Software Engineer at TaxCoder** 
+🎓 **BEng (Honours) Software Engineer** | 💼 **Software Engineer at FanDuel** 
 
 - **Education**: BEng (Hons) in Software Engineering from Edinburgh Napier University, UK (First-Class Honours, 80% average).
 - **Languages**: Fluent in **English** and **Spanish**.
@@ -10,8 +10,20 @@
 
 ## 💼 Professional Experience
 
+### **Software Engineer (III) – Release Engineering** @ [FanDuel](https://www.fanduel.com)
+*December 2024 – Present | Edinburgh, UK*
+
+- **Python & AWS Expertise:**
+  Designing and developing automation and release management solutions using **Python** and a wide array of **AWS services** (Lambda, Fargate, Step Functions, S3, SQS, CloudWatch, etc.).
+- **CI/CD with Buildkite:**
+  Utilising **Buildkite** for continuous integration and deployment, including building custom plugins and automating the generation of Change Management Logs (CML) that enforce regulatory compliance and audit trails.
+- **Infrastructure as Code with Terraform:**  
+  Authoring and maintaining **Terraform** modules to provision and manage consistent AWS infrastructure, improving reliability and accelerating deployment pipelines.
+- **Monitoring & Analytics with DataDog:**  
+  Integrating and configuring **DataDog** for robust monitoring and alerting.
+
 ### **Software Engineer** @ [TaxCoder](https://taxcoder.cz/prices)
-*May 2024 – Present | Remote*
+*May 2024 – December 2024 | Remote*
 
 - Developed and maintained a web application using **Python Django**, **HTML5**, **CSS3**, **Bootstrap**, and **PostgreSQL** on **AWS**, enhancing functionality and user experience.
 - Designed and implemented **RESTful APIs** to integrate with third-party services, ensuring scalability and reliability.
@@ -79,7 +91,6 @@
 
 ## 🌱 Currently Learning & Working On
 
-- **Web Development**: Enhancing skills in **ReactJS**, **NodeJS**, and **MongoDB**.
 - **Machine Learning & AI**: Expanding expertise with a focus on **Azure AI** and **XAI**.
 - **DevOps**: Improving CI/CD pipelines and deployment strategies.
 
