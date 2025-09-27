@@ -4,7 +4,7 @@
 
 🎓 **BEng (Honours) Software Engineer** | 💼 **Software Engineer at FanDuel** 
 
-- **Education**: BEng (Hons) in Software Engineering from Edinburgh Napier University, UK (First-Class Honours, 80% average).
+- **Education**: BEng (Hons) in Software Engineering from Edinburgh Napier University, UK (First-Class Honours, 82% average).
 - **Languages**: Fluent in **English** and **Spanish**.
 - **Passion**: Developing high-reliability and real-time systems with a keen interest in Machine Learning (ML) and Artificial Intelligence (AI).
 
