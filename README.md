@@ -109,6 +109,8 @@
 - Developed a comprehensive website for a guitar tutor, featuring interactive lessons, scheduling, and user authentication.
 
 ## 📜 Certifications
+- **AWS Certified Solutions Architect - Associate (SAA-C03)** | *Nov 2025*
+  - Validated skills in secure, highly available, cost-optimised AWS architectures (including VPC, EC2, RDS, Lambda, S3, CloudFormation, IAM, CloudWatch), aligned with the AWS Well-Architected Framework.
 
 - **Microsoft Certified: Azure AI Engineer Associate (AI-102)** | *Jul 2024*
   - Integrated AI capabilities in applications using Python, C#, REST APIs, and SDKs.
