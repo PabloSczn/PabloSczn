@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 **BEng (Honours) Software Engineer** | 💼 **Software Engineer at FanDuel** 
+💼 **Software Engineer at FanDuel** 
 
 - **Education**: BEng (Hons) in Software Engineering from Edinburgh Napier University, UK (First-Class Honours, 82% average).
 - **Languages**: Fluent in **English** and **Spanish**.
-- **Passion**: Developing high-reliability and real-time systems with a keen interest in Machine Learning (ML) and Artificial Intelligence (AI).
+- **Passion**: Developing high-reliability and real-time systems.
 
 ## 💼 Professional Experience
 
@@ -89,10 +89,6 @@
 - Data Structures
 - Object-Oriented Design
 
-## 🌱 Currently Learning & Working On
-
-- **Machine Learning & AI**: Expanding expertise with a focus on **Azure AI** and **XAI**.
-- **DevOps**: Improving CI/CD pipelines and deployment strategies.
 
 ## 📂 Some Projects
 
